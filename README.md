@@ -4,7 +4,7 @@ This project has been done to learn about what is a binary tree, the different t
 
 ## Technologies
 * Scripts written in `Bash 4.4.23(1)`
-* C files are compiled using `gcc 6.3.0`
+* `C` files are compiled using `gcc 6.3.0`
 * Tested on `Ubuntu 20.04 LTS`
 
 ## Files
@@ -37,7 +37,7 @@ This project has been done to learn about what is a binary tree, the different t
 | `104-binary_tree_rotate_right.c` | Function that performs a right-rotation on a binary tree |
 | `110-binary_tree_is_bst.c` | Function that checks if a binary tree is a valid Binary Search Tree |
 | `111-bst_insert.c` | Function that inserts a value in a Binary Search Tree |
-| `112-array_to_bst.c` | Funciton that builds a Binary Search Tree from an array |
+| `112-array_to_bst.c` | Function that builds a Binary Search Tree from an array |
 | `113-bst_search.c` | Function that searches for a value in a Binary Search Tree |
 | `114-bst_remove.c` | Function that removes a node from a Binary Search Tree |
 | `115-O` | File with the average time complexities of inserting a value, removing and searching a node on a Binary Search Tree |
@@ -45,7 +45,7 @@ This project has been done to learn about what is a binary tree, the different t
 | `121-avl_insert.c` | Function that inserts a value in an AVL Tree |
 | `122-array_to_avl.c` | Function that builds an AVL tree from an array |
 | `123-avl_remove.c` | Function that removes a node from an AVL tree |
-| `124-sorted_array_to_avl.c` | Funciton that builds an AVL tree from an array |
+| `124-sorted_array_to_avl.c` | Function that builds an AVL tree from an array |
 | `125-O` | File with the average time complexities of inserting a value, removing and searching a node on a AVL Tree |
 | `130-binary_tree_is_heap.c` | Function that checks if a binary tree is a valid Max Binary Heap |
 | `131-heap_insert.c` | Function that inserts a value in Max Binary Heap |
